@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Web3 from "web3";
-import BigNumber from "bignumber.js";
 
 import "./App.css";
 
